@@ -1,4 +1,4 @@
-# cillyfox_accurate_distance
+# algorithm_for_accurate_distance
 
 A new Flutter project.
 
